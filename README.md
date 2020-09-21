@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Devesh. I am really interested in data analysis, machine learning and business intelligence.
+I am Devesh. I am really interested in data analysis, machine learning and business intelligence.
 
 <!--
 **Choronzon13/Choronzon13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
